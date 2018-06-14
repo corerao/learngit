@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\mediaplayer\mediaplayer\mediaplayer\bin\Debug\mediaplayer.exe.config
+C:\Users\DELL\Desktop\mediaplayer\mediaplayer\mediaplayer\bin\Debug\mediaplayer.exe.config
+C:\Users\DELL\Desktop\mediaplayer\mediaplayer\mediaplayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\mediaplayer\mediaplayer\mediaplayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\mediaplayer\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\mediaplayer\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\mediaplayer\mediaplayer\mediaplayer\obj\Debug\mediaplayer.mediaplayer.resources
+C:\Users\DELL\Desktop\mediaplayer\mediaplayer\mediaplayer\obj\Debug\mediaplayer.Properties.Resources.resources
+C:\Users\DELL\Desktop\mediaplayer\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\mediaplayer\mediaplayer\mediaplayer\bin\Debug\mediaplayer.exe
+C:\Users\DELL\Desktop\mediaplayer\mediaplayer\mediaplayer\bin\Debug\mediaplayer.pdb
+C:\Users\DELL\Desktop\mediaplayer\mediaplayer\mediaplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\mediaplayer\mediaplayer\mediaplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\mediaplayer\mediaplayer\mediaplayer\obj\Debug\mediaplayer.exe
+C:\Users\DELL\Desktop\mediaplayer\mediaplayer\mediaplayer\obj\Debug\mediaplayer.pdb
